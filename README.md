@@ -1,2 +1,2 @@
 # multimodal-guidance-network
-Official implementation of paper Multi-Modality Guidance Network for Missing Modality Inference
+[ICME 2024] Official implementation of paper Multi-Modality Guidance Network for Missing Modality Inference in Content Moderation.
